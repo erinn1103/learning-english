@@ -1,8 +1,8 @@
-Guide to improve English : Grammar, Vocab, Reading, Listening 
+# Guide to improve English : Grammar, Vocab, Reading, Listening 
 
 ---
 
-Notes: 
+## Notes: 
 
 
 1. Daily Vocab daily 15 mins : có thể chọn 1 trong 2:  
@@ -17,10 +17,10 @@ Notes:
 3. 3,6,9,12, etc tháng kiểm tra trình độ trên English Score 1 lần ( không cần gửi connect code) 
 ---
 
-Resources:  
+## Resources:  
 
 
-Grammar:  
+### Grammar:  
 
 
 1. https://en.wikipedia.org/wiki/English_Grammar_in_Use 
@@ -28,7 +28,7 @@ Grammar:
 3. Longman common errors: tác giả deck quá xuất sắc https://ankiweb.net/shared/info/985790570 
 4. (Advanced)Advanced Grammar in Use: Martin Hewings: có hết exercise trên anki để làm bài trên máy tính luôn, thực sự rất hay https://ankiweb.net/shared/info/332129553 
 
-Vocab:  
+### Vocab:  
 
 
 1. Học trên anki và vocabulary.com  
@@ -56,7 +56,7 @@ Vocab:
 		2. Phrasal verb: trả tiền tác giả thì đc học deck này https://ankiweb.net/shared/info/915007513 
 		3. Idioms: https://ankiweb.net/shared/info/995462426 
 
-Listening:  
+### Listening:  
 
 
 1. TEDEd:  
@@ -69,7 +69,7 @@ Listening:
 2. Youtube, Netflix, watch English movies or series.  
 3. IELTS, TOEFL, TOEIC Listening Practice Test.  
 
-Reading: 
+### Reading: 
 
 
 1. News: 
@@ -101,6 +101,6 @@ Reading:
 		8. Everything, Everything- Nicola Yoon 
 5. (Advanced) Best Reading Practice: https://magoosh.com/toefl/the-best-toefl-reading-practice/ 
 
-Practice:  
+### Practice:  
 
 Dùng English Score để tự kiểm tra trình độ (không dùng connect code) 
