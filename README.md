@@ -1,4 +1,6 @@
-# Guide to improve English : Grammar, Vocab, Reading, Listening 
+# Guide to improve English : Grammar, Vocab, Reading, Listening -> not suitable for adult learners who have to balance working and studying
+# Also not good for younger learners as it is too much to handle -> kinda overwhelming
+# But the resouces are very good for advanced learners looking for cool materials to read and be entertained. 
 
 ---
 
