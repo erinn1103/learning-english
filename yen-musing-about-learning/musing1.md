@@ -10,6 +10,8 @@
 ##### Video này là về: những method này có thực sự giúp tôi học ngoại ngữ mà tôi đang học: hiệu quả, how good time and effort-investment was it? *  
 
 
+# People are different but if you desire to learn, you learn with everything available
+
 ## 1.	Speaking a lot (nói nhiều)
 - a.	Tức là nói nhiều, nói lắm với người bản địa
 - b.	Tôi không thích cách học này một chút nào, đặc biệt khi vừa mới học một ngoại ngữ mới.
