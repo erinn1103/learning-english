@@ -1,4 +1,4 @@
-# Cool and entertaining materials for English Learners
+# More cool and entertaining materials for English Learners
 
 ## Resources:  
 
