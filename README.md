@@ -1,23 +1,4 @@
-# Guide to improve English : Grammar, Vocab, Reading, Listening -> not suitable for adult learners who have to balance working and studying
-# Not good as a guide to take as literally -> kinda overwhelming
-# But the resouces are very good for B2 learners looking for cool materials to read and be entertained. 
-
----
-
-## Notes: 
-
-
-1. Daily Vocab daily 15 mins : có thể chọn 1 trong 2:  
-	- Học theo list vocabulary đã list ở mục Vocab resources.  
-	- Học list tự tạo từ sách, báo, video đã học ở trên Vocabulary.com. 
-2. Mỗi tuần cần thêm đc 1 trong các hoạt động sau: 
-	- Listening Exercise:  
-		- làm các activities trên 1-2 video của TEDEd (watch, think, dig deeper, discuss), note lại new word vào vocabulary.com 
-	- Reading Exercise: 
-		- Đọc news ở phần Reading Resource và note lại từ mới: at least 1-2 articles, note lại new word vào vocabulary.com 
-		- Đọc sách download, Scribd, Goodreads, Sparknotes ở phần Reading Resource và note lại từ mới: at least 5 page, note lại new word vào vocabulary.com 
-3. 3,6,9,12, etc tháng kiểm tra trình độ trên English Score 1 lần ( không cần gửi connect code) 
----
+# Cool materials to be entertained for English Learners
 
 ## Resources:  
 
@@ -31,10 +12,8 @@
 4. (Advanced)Advanced Grammar in Use: Martin Hewings: có hết exercise trên anki để làm bài trên máy tính luôn, thực sự rất hay https://ankiweb.net/shared/info/332129553 
 
 ### Vocab:  
-
-
 1. Học trên anki và vocabulary.com  
-2. Nên bắt đầu với List Oxford 3000 và 5000:  
+2. List Oxford 3000 và 5000:  
 	1. Anki là ứng dụng học bằng phương pháp spaced repetition. It is to learn anything. Rất nhiều sinh viên Y và người học ngoại ngữ dùng ứng dụng này để học: Ứng dụng free, pay trên ios,  sync đc máy tính, điện thoại, và rất nhiều tài liệu có sẵn( chỉ cần download và import vào ứng dụng)  
 	2. Cách sử dụng anki: 
 		1. https://ankivn.com/lo-trinh-anki/ 
@@ -43,7 +22,7 @@
 		3. https://www.youtube.com/results?search_query=anki 
 	3. List Oxford 3000 cho người việt:   
 		1. https://ankivn.com/bo-the/ngoai-ngu/tieng-anh/oxford-3000-words-cefr-a1/ 
-3. Next step: 
+3. More about Anki: 
 	1. Recommended Vocabulary List in this exact order (easy to difficult): 
 		1. 600 Essential Words For TOEIC: https://www.vocabulary.com/lists/196080 
 		2. Cambridge English Collocation In Use- Intermediate:  https://ankiweb.net/shared/info/567995105 
@@ -60,7 +39,6 @@
 
 ### Listening:  
 
-
 1. TEDEd:  
 	1. https://ed.ted.com/lessons?direction=desc&sort=featured-position :  
 	2. Ví dụ: https://ed.ted.com/best_of_web/K5x91XeP#watch 
@@ -72,7 +50,6 @@
 3. IELTS, TOEFL, TOEIC Listening Practice Test.  
 
 ### Reading: 
-
 
 1. News: 
 	1. Magoosh TOEFL Reading List: TOEFL Science Reading Practice: 6 Recommended Websites: https://magoosh.com/toefl/toefl-science-reading-practice/  
