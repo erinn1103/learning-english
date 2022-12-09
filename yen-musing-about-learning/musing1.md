@@ -43,7 +43,7 @@
 #####	Cơ hội để kết bạn mà mình vẫn có thể competitive đc 
 
 
-## 3. Self-Study Textbook (tự học sách) -> học sách ielts
+## 3. Self-Study Textbook (tự học sách)
 
 | Pros | Cons |
 | --- | --- |
