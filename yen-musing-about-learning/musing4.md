@@ -25,13 +25,23 @@ Theo những gì mà mình đã tìm hiểu và chiêm nghiệm từ các nguồ
 
 
 ##### Làm thế nào để sử dụng 2 phương pháp trên hiệu quả: 
-
-
+1. Học vẹt:
+- tài liệu: cần chọn những tài liệu có script để để vừa nghe, vừa đọc để có thể chỉ tay nói nhại theo. Tiếng anh là ngôn ngữ có nhịp điệu.
+- Khi nghe, có thể dùng ngón tay chỉ theo từng chữ khi đang đọc và nghe, và nhại theo để có thể nhìn thấy sự nói dài ngắn khác nhau của tiếng anh bản xứ
+- Hoàn toàn có thể tìm tài liệu phù hợp với bản thân mình trên youtube
+- Ví dụ một số tài liệu hay:
+- spotlight english(chậm, vocab dễ): https://spotlightenglish.com/holidays/christmas/christmas-food-around-the-world/
+- voa english(chậm, vocab hay): https://learningenglish.voanews.com/
+- bigthink(nhanh, vocab hay): https://bigthink.com/the-past/turbulent-birth-of-athens-democracy/
+- learn english through audio stories: https://www.youtube.com/watch?v=egre_MQeTVc 
+2. Xem giải trí hẹp:
+- Học bài hát, và phân tích ý nghĩa bài hát, học thuộc lời và hát tiếng anh.
+- rất nhiều bài của disney movie, vô cùng ý nghĩa :https://www.youtube.com/watch?v=62qtrR2eCu4 
 
 
 # Để cải thiện kĩ năng viết: viết nhiều và đúng grammar
 1. Dịch thuật: từ Luca Lampariello https://www.lucalampariello.com/master-language-learner/ 
-2. viết journal: viết rộng, và dần viết sâu về một chủ đề nào đó
+2. viết journal bằng tiếng anh: viết nhiều dần dần sẽ viết được nhiều hơn. 
 3. Tự chấm writing: https://hemingwayapp.com/ 
 3. Luyện grammar: https://elt.oup.com/student/grammarfriends/level01/unit1_3/exercise01?cc=vn&selLanguage=en 
 4. Sách học, tham khảo và luyện grammar:
@@ -44,12 +54,13 @@ Theo những gì mà mình đã tìm hiểu và chiêm nghiệm từ các nguồ
 - english grammar in use (Raymond Murphy)
 - Giải thích ngữ pháp (Mai Lan Hương)
 
-# Để cải thiện vocabulary: đọc nhiều và đọc đúng level
+# Để cải thiện vocabulary: đọc nhiều và đọc hơn level bản thân một chút. 
 1. Note lại các từ không biết khi đọc, thích từ nào thì note lại từ đó, không cần note hết, mỗi lần đọc cố note đc 10-20 từ( tùy tâm) 
 2. Đọc theo level: 
 - bài tập đọc: https://readtheory.org/ 
 - sách để đọc by level: https://english-e-reader.net/ 
-2. học list 3000 từ common của oxford ( check more-materials.)
+2. học list 3000-5000 từ common của oxford ( check more-materials.md)
+3. Luyện vocab trên vocabulary.com
 
 
 
