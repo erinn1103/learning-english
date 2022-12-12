@@ -21,3 +21,4 @@ Không hiểu bài viết trên thì hãy dùng tool này để dịch bài củ
 1.	Yêu Luca Lampariello quá: anh ý làm video, viết blogpost đều vô cùng cần thận, tỉ mỉ
 2.	Viết tiếng anh cực kỳ rõ ràng, dịch bởi bất kỳ tools nào cũng đều hay hết. 
 3.	Mình thực sự học được rất nhiều từ tài liệu của anh ý. 
+4.	A true guide to keep motivation to learn anything
