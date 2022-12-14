@@ -9,8 +9,8 @@ Mong các bạn có giữ lại đc gì đó cho riêng mình qua bản tóm t�
 1. https://www.lucalampariello.com/motivation-dip-language-learning/
 2. https://www.lucalampariello.com/motivated-learning-a-new-language/ 
 
-Không hiểu video anh ấy nói thì bật auto translate sang tiếng việt ở phần CC. 
-Không hiểu bài viết trên thì hãy dùng tool này để dịch bài của Luca : https://www.deepl.com/translator
+- Không hiểu video anh ấy nói thì bật auto translate sang tiếng việt ở phần CC. 
+- Không hiểu bài viết trên thì hãy dùng tool này để dịch bài của Luca : https://www.deepl.com/translator
 
 # Làm thế nào để giữ được động lực học ngoại ngữ nói chung và tiếng anh nói riêng? 
 
