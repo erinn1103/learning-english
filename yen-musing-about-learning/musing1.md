@@ -1,18 +1,22 @@
-# From: Foreign Language Study Methods that were Actually Useful for Me. (And several that weren't) 
+Hi các bạn, mình là Yen Nguyen. 
+Mình thấy video phân tích các phương pháp học ngôn ngữ của bạn Cameron vô cùng chi tiết và rõ ràng.
+Nên, mình đã làm một bản dịch và tóm tắt về video của bạn ý dưới đây cho những bạn vẫn chưa hiểu được video của Cameron. 
 
-# By: https://www.youtube.com/@cameronword (Cameron Word 카메론 워드)
+## Chi tiết về video của Cameron: 
+##### Video: Foreign Language Study Methods that were Actually Useful for Me. (And several that weren't) 
 
-# Link Video: https://www.youtube.com/watch?v=TQPKmr2cY2I 
+##### By: https://www.youtube.com/@cameronword (Cameron Word 카메론 워드)
 
-##### Sự học mà đã có ích cho tôi( Đừng cho tất cả những gì tôi nói là gospel- lời của chúa but something to consider-suy xét)
-##### Mỗi người có tính cách, learning styles khác nhau. Quá trình học ngoại ngữ cũng là một quá trình khám phá của bản thân để tìm ra thứ mình yêu thích. 
+##### Link Video: https://www.youtube.com/watch?v=TQPKmr2cY2I 
 
-##### Video này là về: những method này có thực sự giúp tôi học ngoại ngữ mà tôi đang học: hiệu quả, how good time and effort-investment was it? *  
+## Phần dịch và tóm tắt của Yen Nguyen
+###### Sự học mà đã có ích cho tôi( Đừng cho tất cả những gì tôi nói là gospel- lời của chúa but something to consider-suy xét)
+###### Mỗi người có tính cách, learning styles khác nhau. Quá trình học ngoại ngữ cũng là một quá trình khám phá của bản thân để tìm ra thứ mình yêu thích. 
+
+###### Video này là về: những method này có thực sự giúp tôi học ngoại ngữ mà tôi đang học: hiệu quả, how good time and effort-investment was it? *  
 
 
-# People are different but if you desire to learn, you learn with everything available
-
-## 1.	Speaking a lot (nói nhiều)
+### 1.	Speaking a lot (nói nhiều)
 - a.	Tức là nói nhiều, nói lắm với người bản địa
 - b.	Tôi không thích cách học này một chút nào, đặc biệt khi vừa mới học một ngoại ngữ mới.
 - c.	Tôi thấy cách này cực kì không hữu ích cho tôi. 
@@ -30,7 +34,7 @@
 ##### 	Nên là tớ không thích phương pháp này khi mới học ngoại ngữ 
 
 
-## 2.	Taking Classes (đi học lớp):
+### 2.	Taking Classes (đi học lớp):
 - a.	Nếu có lớp học ngoại ngữ và tớ có thời gian cho phép, là tớ đi luôn 
 - b.	Tại sao mình lại consider (xem xét) lớp học truyền thống và thậm chí tutor 1-1?
 - c.	MÌnh thíchhhhhhhhhhhhh một lớp học hay.
@@ -43,7 +47,7 @@
 #####	Cơ hội để kết bạn mà mình vẫn có thể competitive đc 
 
 
-## 3. Self-Study Textbook (tự học sách)
+### 3. Self-Study Textbook (tự học sách)
 
 | Pros | Cons |
 | --- | --- |
@@ -56,14 +60,14 @@
 |-	Sách là phải có exercise để actively engage với quyển sách||
 
 
-## 4.	Extensive Media Consumption ( xem giải trí rộng) = đọc nhiều sách, xem TV,…
+### 4.	Extensive Media Consumption ( xem giải trí rộng) = đọc nhiều sách, xem TV,…
 
 | Pros | Cons |
 | --- | --- |
 | -	If it work for you, go for it |-	Never work for me|
 ||-	It is just entertainment. I want to relax and watch them|
 
-## 5. Intensive Media Consumption ( xem giải trí hẹp) = dive deep in to material, piece by piece. 
+### 5. Intensive Media Consumption ( xem giải trí hẹp) = dive deep in to material, piece by piece. 
 
 | Pros | Cons |
 | --- | --- |
@@ -71,7 +75,7 @@
 |-	Chỉ có tác dụng trên những tài liệu bạn thật sự thích. |--	Useless if not enjoy. |
 
 
-## 6.	Rote Memorization ( học vẹt) = nhại theo(shadowing), self talk( tự nói chuyện), học thuộc đoạn văn, background music
+### 6.	Rote Memorization ( học vẹt) = nhại theo(shadowing), self talk( tự nói chuyện), học thuộc đoạn văn, background music
 
 | Pros | Cons |
 | --- | --- |
@@ -79,28 +83,28 @@
 ||-	Cần tập nhiều để nhớ |
 
 
-## 7. Spaced Repetition ( học ngắt quãng)
+### 7. Spaced Repetition ( học ngắt quãng)
 
 | Pros | Cons |
 | --- | --- |
 | -	Yêu flashcard, nó như một cái game với tôi vậy |-	Khá là intense|
 |-	Khi tôi khó ở, mông lung, làm flash card làm tôi cảm thấy ít ra tôi cũng biết đc câu trả lời trên flash card|-	Cần hằng ngày làm. |
 
-## 8.	Study abroad (du học)
+### 8.	Study abroad (du học)
 
 | Pros | Cons |
 | --- | --- |
 |Rât thú vị |Nhưng không phải để học ngoại ngữ, vì ở nhà instense the same thì vẫn học đc|
 
 
-## 9.	Changing your environment ( thay đổi môi trường) = thay điện thoại sang tiếng đức,…
+### 9.	Changing your environment ( thay đổi môi trường) = thay điện thoại sang tiếng đức,…
 
 | Pros | Cons |
 | --- | --- |
 |thú vị |-	Bất tiện trong cuộc sống hằng ngày. |
 
 
-## 10.	Translation ( dịch thuật) = dịch từ target sang mẹ đẻ, và từ mẹ đẻ dịch lại sang target
+### 10.	Translation ( dịch thuật) = dịch từ target sang mẹ đẻ, và từ mẹ đẻ dịch lại sang target
 
 | Pros | Cons |
 | --- | --- |
@@ -111,4 +115,7 @@
 
 # Yen Nguyen’s nhận xét:
 1.	Có thể thấy bạn ấy không thích nói khi không có gì chuẩn bị cả, và bạn ấy muốn nói chuyện một cách có ý nghĩa nhất có thể cho bạn ấy và người bạn ấy nói chuyện cùng. 
-2.	Em thích phương pháp học trên lớp, học sách, xem giải trí hẹp, học vẹt, và dịch thuật cho người lớn ạ.  
+2.	Mình thấy phương pháp học trên lớp, học sách, xem giải trí hẹp, học vẹt, và dịch thuật phù hợp cho người lớn ạ.  
+3.	People are different but if you desire to learn, you learn with everything available. 
+4.	Mỗi người mỗi tính, nhưng nếu muốn học, thì đều có thể học với tài liệu mình có, dù ít, dù nhiều.
+5.	Mình thấy là mọi người học đang bị ngập trong tài liệu, nên mình muốn tối giản hóa việc học tiếng anh để việc học tiếng anh không còn là điều gì là ngợp mọi người nữa. 
