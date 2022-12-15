@@ -11,7 +11,8 @@ Theo những gì mà mình đã tìm hiểu và chiêm nghiệm từ các nguồ
 8. Hãy thử, trải nghiệm, và chọn cho mình cách học mà mình có thể stick with. 
 
 
-# Phương pháp phù hợp cho người lớn
+# Phương pháp phù hợp cho người lớn theo mình nghĩ vì người lớn thì không có nhiều thời gian như trẻ em.
+Các bạn cứ học thôi, thấy phương pháp nào phù hợp thì giữ lại. 
 (Xem lại musing1 để biết về các phương pháp này hơn) 
 1. học trên lớp
 2. Học trên sách
