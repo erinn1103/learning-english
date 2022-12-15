@@ -63,7 +63,7 @@ Theo những gì mà mình đã tìm hiểu và chiêm nghiệm từ các nguồ
 2. học list 3000-5000 từ common của oxford ( check more-materials.md)
 3. Luyện vocab trên vocabulary.com
 
-# Để cải thiện accent cho giống giọng Mỹ: nhại lại nhiều.
+# Để cải thiện accent cho giống giọng Mỹ: nhại lại nhiều là cách dễ làm nhất, maybe là với mình thì thế
 1. Mình từng đọc quyển American Accent Training của Ann Cook.
 2. Mình chỉ nhớ duy nhất đoạn introduction: Read this first.
 3. Mình rất thích đoạn nói đó, và cứ nghe đi, nghe lại, nói đi nói lại, đoạn intro tới mức mình học thuộc và nói quen giọng Mỹ.
