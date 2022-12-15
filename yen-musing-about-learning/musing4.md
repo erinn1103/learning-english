@@ -28,6 +28,7 @@ Theo những gì mà mình đã tìm hiểu và chiêm nghiệm từ các nguồ
 1. Học vẹt:
 - tài liệu: cần chọn những tài liệu có script để để vừa nghe, vừa đọc để có thể chỉ tay nói nhại theo. Tiếng anh là ngôn ngữ có nhịp điệu.
 - Khi nghe, có thể dùng ngón tay chỉ theo từng chữ khi đang đọc và nghe, và nhại theo để có thể nhìn thấy sự nói dài ngắn khác nhau của tiếng anh bản xứ
+- **Hãy tìm ra điểm yêu thích của bạn về tài liệu mà bạn nghe, nói, đọc, viết, tính bản thân yêu thích là rất quan trọng để bạn có thể yêu thích tiếng anh**
 - Hoàn toàn có thể tìm tài liệu phù hợp với bản thân mình trên youtube or nơi khác. 
 - Ví dụ một số tài liệu hay:
 - spotlight english(chậm, vocab dễ): https://spotlightenglish.com/holidays/christmas/christmas-food-around-the-world/
