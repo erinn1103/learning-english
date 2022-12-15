@@ -3,7 +3,7 @@ Mình thấy các bài blogpost của anh Luca Lampariello thực sự rất đ�
 Luca là một polyglot(người biết nhiều thứ tiếng).
 Anh ấy nói trôi chảy đến nay là 14 ngoại ngữ.
 Hơn thế nữa, anh ấy luôn viết nhứng bài blogpost, video với những tips vô cùng thực tế cho người tự học ngoại ngữ.
-Mong các bạn có giữ lại đc gì đó cho riêng mình qua bản tóm tắt mình viết của 2 bài viết của luca lampariello  
+Mong các bạn có giữ lại đc gì đó cho riêng mình qua bản tóm tắt mình viết của bài blog của luca lampariello  
 
 # Hãy đọc :
 https://www.lucalampariello.com/motivation-dip-language-learning/
@@ -29,6 +29,27 @@ Vậy làm thế nào để giữ được động lực học ngoại ngữ m�
 4. Establish meaningful relationships.**( tạo những mối quan hệ ý nghĩa xoay quanh ngoại ngữ mình học)**
 
 # Imagine your way to fluency (dùng trí tưởng tượng của mình để tạo động lực cho bản thân)
+"If you know your why, you will discover your how" 
+Cần có mục đích rõ ràng khi học ngoại ngữ.
+Với mỗi ngôn ngữ tôi học, tôi cố gắng hết mình tìm tòi rõ ràng tại sao tôi học ngoại ngữ đó và đặt lý do đó trong tâm niệm của mình.
+
+Nếu bạn muốn giỏi ngoại ngữ nào đó, bạn cần tìm đc lý do tâm huyết của bạn là gì.
+Nhưng biết đc lý do vẫn chưa đủ để bạn giỏi ngoại ngữ. Và rất thường xuyên, có những cái "why" thực sự rất khó đạt được. 
+Để có thể kêt nối tôi của bây giờ (một beginner) với tôi của tương lai(người trôi chảy ngoại ngữ đó) tôi dùng sức mạnh của trí tưởng tượng. 
+
+Đặc biệt, tôi nhắm mắt và tưởng tượng bản thân của những năm tháng sau này, khi tôi đã qua thời gian "ngồi và học", thoải mái dùng ngôn ngữ mới. Trong đầu, tôi nhìn thấy bản thân kết bạn với người bản xứ, cười đùa bên người bản xứ. Tôi thậm chí còn tưởng tượng bản thân du lịch quốc gia đó, thăm thú những danh lam thắng cảnh với những người bạn mới.
+
+**Những hình ảnh trên là động lực mạnh mẽ để tôi không ngừng nghỉ học ngoại ngữ.** 
+
+Làm thế nào để sử dụng "why"-lí do làm động lực mạnh mẽ học ngôn ngữ trong nhiều năm nay của tôi:
+1. Tìm "why": nghĩ về những việc muốn làm khi bạn đã giỏi ngoại ngữ đó. Đối với tôi là du lịch và kết bạn. đối với bạn điều đó có thể khác.
+2. Tìm một chỗ yên tĩnh với giấy và bút. Nhắm mắt lại và tưởng tượng bạn là người làm thất cả những điều trên.
+3. Cố gắng vẽ ra bức tranh tinh thần nhiều nhất có thể. Hỏi bản thân: who am I with?”, “what am I doing?”, “where am I doing it, and when?”
+4. khi miền tưởng tượng của bạn đã đủ rõ ràng, hãy mô tả lại nó ra giấy. dài như bạn muốn. đối với tôi thường là 200-350 từ.
+5. giữ miền tưởng tượng được viết ra bên bạn hoặc gần nơi bạn học.
+6. Mỗi khi bạn ngồi xuống và học, đọc lại những gì bạn viết, và cố gắng tưởng tượng lại chúng trong đầu bạn. 
+
+**Nếu bạn làm bước 5,6 hằng ngày, bạn sẽ có nguồn động lực cực kì mạnh mẽ. Và bạn có thể thấy miền tưởng tượng của bạn trờ thành sự thật :)** 
 
 # Focus on system, rather than goals ( tập trung vào tính hệ thống, thay vì tập trung vào mục đích)
 Câu hỏi bạn đặt ra trong quá trình học nên là những câu hỏi mang tính hệ thống thay vì những câu hỏi mục đích.
@@ -37,8 +58,8 @@ Ví dụ:
 Câu hỏi mục đích: bao giờ thì giỏi nói tiếng anh? -> ko thể trả lời đc
 câu hỏi hệ thống: hôm nay định học ngoại ngữ bao nhiêu phút ->15 phút -> trả lời dễ dàng và hiệu quả. 
 
-Practice makes perfect.
-Tập trung vào quá trình học, làm thế nào để mình học tốt trong quá trình học. 
+**Practice makes perfect.**
+**Tập trung vào quá trình học, làm thế nào để mình học tốt trong quá trình học.**  
 
 Gợi ý cho các bạn:
 1. Nên có một khoảng thời gian mỗi tuần để lên plan học, không học trong thời gian này. để bạn có thể hỏi những câu hỏi mang tính hệ thống và lên đc thời gian biểu học tập.
@@ -50,7 +71,7 @@ Gợi ý cho các bạn:
 Bạn cần học những thứ phù hợp với mình như trong câu chuyện cổ tích Goldilocks. cô gái trong câu truyện tìm được thứ phù hợp với mình. 
 
 Với phương pháp và tài liệu bạn học, bạn cần:
-- thấy chúng fun,vui,interesting,thử thách bản thân chút chứ không phải boring và easy(dễ dàng)
+- **thấy chúng fun, vui, interesting, (challenging) thử thách bản thân chút chứ không phải boring và easy(dễ dàng)**
 
 Do vậy, tôi gợi ý đó là:
 1. thường hỏi bản thân: hoạt động mình học có fun và challenging với bản thân không.
@@ -69,8 +90,8 @@ Ví dụ có các cách sau:
 3. Thuê tutor
 4. Tìm bạn học ngôn ngữ cùng
 
-Ngay cả khi bạn là beginner, bạn đều có thể tìm đc giá trị và kết nối.
-Tôi luôn tìm những kết nối này ở mọi ngôn ngữ tôi học. 
+**Ngay cả khi bạn là beginner, bạn đều có thể tìm đc giá trị và kết nối.
+Tôi luôn tìm những kết nối này ở mọi ngôn ngữ tôi học** 
 
 # Yen Nguyen’s nhận xét:
 1.	Yêu Luca Lampariello quá: anh ý làm video, viết blogpost đều vô cùng cần thận, tỉ mỉ
