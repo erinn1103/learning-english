@@ -11,6 +11,7 @@ https://www.lucalampariello.com/motivation-dip-language-learning/
 
 - Không hiểu video anh ấy nói thì bật auto translate sang tiếng việt ở phần CC. 
 - Không hiểu bài viết trên thì hãy dùng tool này để dịch bài của Luca : https://www.deepl.com/translator
+- Dưới đây là bản tóm tắt của Yến Nguyễn
 
 # Làm thế nào để giữ được động lực học ngoại ngữ nói chung và tiếng anh nói riêng? 
 Lần nào học một ngoại ngữ mới, không thể tránh được khoảng thời gian buồn tẻ ban đầu khi phải "ngồi và học" để
