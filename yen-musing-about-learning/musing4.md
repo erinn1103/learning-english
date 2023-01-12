@@ -4,7 +4,7 @@ Theo những gì mà mình đã tìm hiểu và chiêm nghiệm từ các nguồ
 1. Quá trình học ngoại ngữ là cũng là một quá trình khám phá bản thân để hiểu hơn về bản thân trong một ngôn ngữ và một văn hóa mới
 2. Để học tốt được ngoại ngữ, phải có một mục tiêu rõ ràng để ta có thể theo đuổi nó một cách bền bỉ và lâu dài: imagine your way to fluency
 3. Practice makes perfect: học ngôn ngữ là phải luyện đều đặn, 5- 10 phút mỗi ngày cũng đủ giúp cho vốn ngôn ngữ của bạn lên cao
-4. Cách học và tài liệu hiệu quả sẽ giúp bạn tiến nhanh và tiến xa trên con đường học ngôn ngữ.
+4. Cách học và tài liệu hiệu quả sẽ giúp bạn tiến bộ và tiến xa trên con đường học ngôn ngữ.
 5. Hãy nghĩ học ngôn ngữ như tập gym, học đàn, bạn bỏ ra bao nhiêu effort thì nhận lại đc bấy nhiêu. nên cũng đừng lo lắng quá khi bạn chưa thể lift weight 30 lần, bạn đi bộ 10 phút cũng có hiệu quả rồi.
 6. Take it slow với người mới bắt đầu. không cần gò ép bản thân phải nghe theo mình.
 7. Đây là những điều tớ đúc kết đc thôi, từ trải nghiệm của bản thân và nhìn những người khác.
