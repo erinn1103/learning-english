@@ -1,4 +1,6 @@
 # Tổng kết về sự học Tiếng Anh cho bản thân mình
+# nghe và đọc là gốc.
+# nói với viết sẽ dần có chủ đề và trơn tru hơn
 
 Theo những gì mà mình đã tìm hiểu và chiêm nghiệm từ các nguồn khác nhau, thì chúng ta có thể rõ ràng về những điều sau:
 1. Quá trình học ngoại ngữ là cũng là một quá trình khám phá bản thân để hiểu hơn về bản thân trong một ngôn ngữ và một văn hóa mới
